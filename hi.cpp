@@ -1,6 +1,6 @@
 
 #include <iostream>
-
+//ngu loon
 int main(int argc, char const *argv[])
 {
     int a=1;
